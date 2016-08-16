@@ -1,0 +1,14 @@
+layout_spectrum: 0.3906469848006964
+typography_spectrum: 0.5072067941073328
+color:
+  brandStrength: 0.9622158708516508
+  lightness: 0.6772851869463921
+  saturation: 0.5620185979641974
+  rhythmicContrast: 0.25761840562336147
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: 'Geek, Gay, Luv'
